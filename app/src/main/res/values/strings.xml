@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">SmartCents</string>
+
+    <!-- Common Strings -->
+    <string name="login">LOGIN</string>
+    <string name="next">N E X T</string>
+    <string name="create_account">Create Account</string>
+    <string name="sign_in">Sign In</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="email_address">Email Address</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="already_have_account">Already Have An Account?</string>
+
+    <!-- Screen02 -->
+    <string name="welcome">Welcome</string>
+
+    <!-- Screen03 -->
+    <string name="topic">Join With\nBudgetFit</string>
+    <string name="manage">Manage Your Finance</string>
+    <string name="discription">"Manage your finances effortlessly with our budget app. Track expenses, set goals, and gain insights—all in one place for smarter budgeting."</string>
+
+    <!-- Screen04 -->
+    <string name="sign_in_title">Sign Up</string>
+
+    <!-- Screen05 -->
+    <string name="continue_">Let\'s Sign ln.! Login to Your Account and Manage Your Finance</string>
+
+</resources>
